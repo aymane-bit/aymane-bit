@@ -18,8 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/akajjou" alt="akajjou's 42 stats" /></a>
-
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/akajjou" alt="akajjou's 42 stats" /></a>
 ###
 
 <div align="center">
